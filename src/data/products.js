@@ -152,7 +152,7 @@ export const products = [
     name: "Commode Chair",
     category: "daily-living",
     price: 7800,
-    image: "https://m.media-amazon.com/images/I/61NlH5+f0UL._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/-kUz-R0R4VIgihNbO2r2kTVyY-T7OdPQ5G7OMumJjrE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vR1k4d01D/dGFlTkJtQXVGaEgz/OFcxOThyaGhMNmxY/aTIyNmZoS0dhVngx/TS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlw/YldGbi9aWE10Ym1F/dWMzTnNMV2x0L1lX/ZGxjeTFoYldGNmIy/NHUvWTI5dEwybHRZ/V2RsY3k5Si9Mell4/ZUc1RE9XeFBaalJN/L0xtcHdadw.jpeg",
     shortDescription: "Portable commode chair for bathroom assistance",
     description:
       "A sturdy and portable commode chair designed for individuals needing assistance with toileting. Features a durable frame, comfortable seat, and easy-to-clean bucket.",
@@ -177,7 +177,7 @@ export const products = [
     name: "Large Print Keyboard",
     category: "vision",
     price: 4500,
-    image: "https://m.media-amazon.com/images/I/71u9sW4j23L._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/zeLgFq664mKOhKSnzACijEf7ElBinTtAIQgPyprmkYE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vM2RnZ3JH/U1ZPNE9JSmZKUzJk/Zlo5Vzl3Umkzak5l/emMwVklYd0NUWW1p/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl0/TG0xbC9aR2xoTFdG/dFlYcHZiaTVqL2Iy/MHZhVzFoWjJWekww/a3YvTnpFek1ucE1N/blpHU0V3dS9hbkJu.jpeg",
     shortDescription: "High-contrast keyboard with oversized letters",
     description:
       "This keyboard features extra-large, high-contrast print on the keys, making it easier for individuals with low vision to see and type. Compatible with most computers.",
@@ -202,7 +202,7 @@ export const products = [
     name: "Automatic Pill Dispenser",
     category: "daily-living",
     price: 6500,
-    image: "https://m.media-amazon.com/images/I/71239c0Z2BL._AC_SL1500_.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp51SIhV7gMMrM8ZpNRuLv2LBjgF-8xH2kAg&s",
     shortDescription: "Timed pill dispenser with alarms",
     description:
       "An electronic pill dispenser with multiple compartments and programmable alarms to help manage medication schedules. Ensures correct dosage at the right time.",
@@ -227,7 +227,7 @@ export const products = [
     name: "Adjustable Shower Chair",
     category: "daily-living",
     price: 5900,
-    image: "https://m.media-amazon.com/images/I/611jE-Vd2KL._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/ZYdVMl37e0MBZ-mNcbAPtySivnQZbZ1i9oPTPHN2V14/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20veDBuS0tH/X3ZCal9UMElHVHlp/TW1IT2t3WG5aQWpV/akRJOUFmZGVGaHhf/TS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl0/TG0xbC9aR2xoTFdG/dFlYcHZiaTVqL2Iy/MHZhVzFoWjJWekww/a3YvTnpGcFMwUnVk/VmhUU2t3dS9hbkJu",
     shortDescription: "Non-slip shower chair with adjustable height",
     description:
       "Provides a safe and comfortable seating option in the shower for individuals with mobility challenges. Features non-slip rubber feet and adjustable height settings.",
@@ -252,7 +252,7 @@ export const products = [
     name: "One-Handed Jar Opener",
     category: "daily-living",
     price: 1500,
-    image: "https://m.media-amazon.com/images/I/51b+zX6iV4L._AC_SL1000_.jpg",
+    image: "https://imgs.search.brave.com/lgFEXpbGnSGoWOgdsnrdVZxpAMEq-YogTMRx7q2OIWo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vYmV1X1g0/M1JKUE5vSXhHSDln/Wmx1NFo3eWhTbVRt/TDdwTjNGZjhpVkMw/VS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlw/YldGbi9aWE11WlhO/elpXNTBhV0ZzL1lX/bGtjeTVqYjIwdlpY/TnovWlc1MGFXRnNZ/V2xrY3k5dy9jbTlr/ZFdOMFNXMWhaMlZ6/L0wzSXZhUzl5YVc1/bkxYQjEvYkd3dFky/RnVMVzl3Wlc1bC9j/aTVxY0djX2NISnZa/bWxzL1pUMXpjWFZo/Y21V.jpeg",
     shortDescription: "Under-cabinet jar and bottle opener",
     description:
       "Mounts under the cabinet, allowing for one-handed opening of stubborn jars and bottles. Ideal for individuals with limited hand strength or dexterity.",
@@ -277,7 +277,7 @@ export const products = [
     name: "Vibrating Alarm Clock",
     category: "hearing",
     price: 4200,
-    image: "https://m.media-amazon.com/images/I/71R2cZ5b6EL._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/Mcwt2ITL-YQM3qQiDuozI9uSOtvusAMsWLvHQuef3J4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vUW1jb09x/YlZjQi0wR0xabWV1/QUtfT2hCZDM4QzJR/NkVsbEdTSjF0X2cx/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlq/Wkc0eC9NUzVpYVdk/amIyMXRaWEpqL1pT/NWpiMjB2Y3kxeGVq/UTAvYW5JdmFXMWha/MlZ6TDNOMC9aVzVq/YVd3dk5UQXdlRFkx/L09TOXdjbTlrZFdO/MGN5OHgvTmprNEx6/VTNOVEl2UjJWMC9T/VzFoWjJWZlh6Z3dO/VFEzL0xqRTNNRGMy/TnpjME9UWXUvYW5C/blAyTTlNZw.jpeg",
     shortDescription: "Loud alarm clock with bed shaker for heavy sleepers/deaf",
     description:
       "This alarm clock combines a loud audible alarm with a powerful bed shaker, perfect for individuals with hearing impairments or heavy sleepers. Features snooze function and adjustable brightness.",
@@ -302,7 +302,7 @@ export const products = [
     name: "Reacher Grabber Tool",
     category: "daily-living",
     price: 2800,
-    image: "https://m.media-amazon.com/images/I/61k1qP1YfEL._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/gDwXZDGN_5rC-CPLzAC-IJ8_gohb6wYu_Z23SSj962w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vMk9NTzJu/bE13cExWR29MeVJn/UllxMTJ4bUViWG9t/ajM2TEhUcnlJd203/by9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl0/TG0xbC9aR2xoTFdG/dFlYcHZiaTVqL2Iy/MHZhVzFoWjJWekww/a3YvTmpGU0xVUnJh/VEYyU0V3dS9hbkJu.jpeg",
     shortDescription: "Long-handled grabber for extended reach",
     description:
       "A lightweight and durable reacher tool with an ergonomic handle and rotating jaw. Helps individuals pick up items from the floor or high shelves without bending or stretching.",
@@ -326,8 +326,8 @@ export const products = [
     id: 14,
     name: "Tactile Watch",
     category: "vision",
-    price: 9500,
-    image: "https://m.media-amazon.com/images/I/61n-h3M+1jL._AC_SL1500_.jpg",
+    price: 500,
+    image: "https://imgs.search.brave.com/Zopaqfvm0XCEFZ1zvpMy0LEYRHMg4LNL3jarJfmMp80/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vU1UyNlBn/MlhFenliaEJvYU9O/Z0pIZzA1YWlkNnRy/cDJrNFdnUnhraXRX/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlw/TlM1My9ZV3h0WVhK/MGFXMWhaMlZ6L0xt/TnZiUzl6Wlc4dlRX/VnUvTFhNdFFXNWhi/RzluTFZOdy9iM0ow/Y3kxWFlYUmphQzFO/L2FXeHBkR0Z5ZVMx/WFlYUmovYUMxUGRY/UmtiMjl5TFV4Ri9S/QzFUZEc5d2QyRjBZ/Mmd0L1JHbG5hWFJo/YkMxRmJHVmovZEhK/dmJtbGpMVmRoZEdO/by9aWE10VEdGeVoy/VXRSSFZoL2JDMUVh/WE53YkdGNUxWZGgv/ZEdWeWNISnZiMll0/VkdGai9kR2xqWVd3/dFFYSnRlUzFYL1lY/UmphR1Z6TFdadmNp/MU4vWlc1ZlpXSTFN/VFE0WTJVdC9Nek5p/TXkwME9EaGpMVGs0/L1lUTXRNbVZtTVRZ/ek5ERmgvWW1VNUxq/RXhZMlUzTkRNeS9P/R1l5WVRBMllqQTNZ/MlUxL09EZG1PRFpo/TmpobE1EYzEvTG1w/d1pXY19iMlJ1U0dW/cC9aMmgwUFRVNE1D/WnZaRzVYL2FXUjBh/RDAxT0RBbWIyUnUv/UW1jOVJrWkdSa1pH.jpeg",
     shortDescription: "Watch with raised markers for blind individuals",
     description:
       "A stylish and functional watch designed for the visually impaired. Features raised tactile markers and a hinged crystal that opens to allow touch-reading of the time.",
@@ -352,7 +352,7 @@ export const products = [
     name: "Wheelchair Ramp (Portable)",
     category: "mobility",
     price: 25000,
-    image: "https://m.media-amazon.com/images/I/71r6T12T2LL._AC_SL1500_.jpg",
+    image: "https://imgs.search.brave.com/UWyjEbOL-COmIHyamhmdQpzk5ETW7XwEN9xSyACHnb8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vVmVyRFU1/cmhyYTIzek9wODBx/ajA5UlNpRXl5OHJW/eE11S1ZPTFBDc3BB/SS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl0/TG0xbC9aR2xoTFdG/dFlYcHZiaTVqL2Iy/MHZhVzFoWjJWekww/a3YvT1RGTE9HWlNk/MVJ5VTB3dS9hbkJu.jpeg",
     shortDescription: "Lightweight folding ramp for wheelchair access",
     description:
       "A portable and lightweight ramp designed for easy wheelchair access over steps or thresholds. Folds compactly for transport and storage.",
