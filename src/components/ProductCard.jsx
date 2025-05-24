@@ -15,10 +15,7 @@ export default function ProductCard({ product, highContrast }) {
       className={`rounded-lg overflow-hidden transition-all ${contrastClasses}`}
       aria-labelledby={`product-${product.id}-title`}
     >
-      <Link
-        to={`/products/${product.id}`}
-        className="block h-full flex flex-col"
-      >
+      <Link to={`/products/${product.id}`} className=" h-full flex flex-col">
         <div className="h-48 w-full flex items-center justify-center bg-gray-50 overflow-hidden">
           <img
             src={product.image}
